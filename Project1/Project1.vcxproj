@@ -142,8 +142,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binarization.cpp" />
     <ClCompile Include="Color.cpp" />
     <ClCompile Include="Color_init.cpp" />
+    <ClCompile Include="linear_contrast.cpp" />
+    <ClCompile Include="linear_merge.cpp" />
+    <ClCompile Include="merge.cpp" />
+    <ClCompile Include="negative.cpp" />
     <ClCompile Include="saturation.cpp" />
     <ClCompile Include="Gray.cpp" />
     <ClCompile Include="image.cpp" />

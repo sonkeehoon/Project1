@@ -3,7 +3,7 @@
 using namespace cv;
 using namespace std;
 
-int main()
+int main_sta()
 {
 	Mat img = imread("c:\\yeji.jpg", IMREAD_GRAYSCALE);
 	imshow("Original Image", img);
