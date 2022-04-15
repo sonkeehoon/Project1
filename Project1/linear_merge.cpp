@@ -4,7 +4,7 @@
 using namespace std;
 using namespace cv;
 
-int main()
+int main_linear_merge()
 {
 	double alpha = 0.5; double beta;
 	Mat image1 = imread("c://yeji.jpg");
